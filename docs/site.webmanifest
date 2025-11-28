@@ -1,6 +1,6 @@
 {
-  "name": "{{PROJECT_TITLE}}",
-  "short_name": "{{PROJECT_TITLE}}",
+  "name": "PrettyBash",
+  "short_name": "prettybash",
   "icons": [
     {
       "src": "favicon_192x192.png",

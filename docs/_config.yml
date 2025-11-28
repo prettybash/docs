@@ -1,13 +1,13 @@
-title: "{{SITE_TITLE}}"
+title: "PrettyBash"
 
-email: "{{SITE_EMAIL}}"
+email: "prettybash@workspace.lk"
 
 description: >- # This means to ignore newlines until "baseurl:"
-  {{SITE_DESCRIPTION}}
+  A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
 
-baseurl: ""
+baseurl: "docs"
 
-url: "{{SITE_URL}}"
+url: "https://prettybash.github.io"
 
 author:
   name: I am Programmer
@@ -33,16 +33,16 @@ minima:
   social_links:
     - title: GitHub
       icon: github
-      url: "https://github.com/{{USERNAME}}"
+      url: "https://github.com/prettybash"
     - title: Reddit
       icon: reddit
-      url: "https://reddit.com/user/{{USERNAME}}"
+      url: "https://reddit.com/user/iamprogrammerlk"
     - title: YouTube
       icon: youtube
-      url: "https://youtube.com/@{{USERNAME}}"
+      url: "https://youtube.com/@iamprogrammerlk"
     - title: LinkedIn
       icon: linkedin
-      url: "https://linkedin.com/company/{{USERNAME}}"
+      url: "https://linkedin.com/company/iamprogrammerlk"
     - title: X
       icon: x-twitter
-      url: "https://x.com/{{USERNAME}}"
+      url: "https://x.com/iamprogrammerlk"
