@@ -3,9 +3,9 @@ layout: home
 title: Documentation
 ---
 
-> TODO: This page isn't complete
+> NOTE: THIS PAGE IS INCOMPLETE!
 >
-> [Issue #1](https://github.com/prettybash/docs/issues/1)
+> [ISSUE: #1](https://github.com/prettybash/docs/issues/1)
 
 # PrettyBash Overview
 
