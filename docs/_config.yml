@@ -1,9 +1,9 @@
-title: "PrettyBash"
+title: "PrettyBash Documentation"
 
 email: "prettybash@workspace.lk"
 
 description: >- # This means to ignore newlines until "baseurl:"
-  A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
+  PrettyBash documentation website.
 
 baseurl: "docs"
 

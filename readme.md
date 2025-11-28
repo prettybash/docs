@@ -12,9 +12,9 @@
 <br>
 <br>
 
-# PrettyBash
+# PrettyBash Documentation
 
-A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
+PrettyBash documentation website.
 
 <br>
 <br>
