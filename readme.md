@@ -5,7 +5,7 @@
 
 <div align="center" style="text-align: center;">
   <a target="_blank" rel="noreferrer" href="https://prettybash.github.io">
-    <img src="resource/cover_3840x2160.png" alt="PrettyBash" width="100%">
+    <img src="resource/prettybash_logo_cover_3840×2160.png" alt="PrettyBash" width="100%">
   </a>
 </div>
 
