@@ -1,0 +1,26 @@
+- title: About
+  url: https://{{USERNAME}}.github.io/about
+
+- title: Community
+  url: https://{{USERNAME}}.github.io/community
+
+- title: Contact
+  url: https://{{USERNAME}}.github.io/contact
+
+- title: FAQ
+  url: https://{{USERNAME}}.github.io/faq
+
+- title: Privacy Policy
+  url: https://{{USERNAME}}.github.io/privacy
+
+- title: Project
+  url: https://{{USERNAME}}.github.io/project
+
+- title: Sponsor
+  url: https://{{USERNAME}}.github.io/sponsor
+
+- title: Support
+  url: https://{{USERNAME}}.github.io/support
+
+- title: Terms of Service
+  url: https://{{USERNAME}}.github.io/terms

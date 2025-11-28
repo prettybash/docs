@@ -1,0 +1,48 @@
+title: "{{SITE_TITLE}}"
+
+email: "{{SITE_EMAIL}}"
+
+description: >- # This means to ignore newlines until "baseurl:"
+  {{SITE_DESCRIPTION}}
+
+baseurl: ""
+
+url: "{{SITE_URL}}"
+
+author:
+  name: I am Programmer
+  email: "contact@iamprogrammer.lk"
+
+# theme: minima
+
+remote_theme: "jekyll/minima"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
+  date_format: "%Y %m %d"
+  hide_site_feed_link: true
+  # theme default "nav_pages:" is overridden by the "_data/navigation.yml"
+  # nav_pages:
+  #   - support.md
+  show_excerpts: true
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/{{USERNAME}}"
+    - title: Reddit
+      icon: reddit
+      url: "https://reddit.com/user/{{USERNAME}}"
+    - title: YouTube
+      icon: youtube
+      url: "https://youtube.com/@{{USERNAME}}"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/company/{{USERNAME}}"
+    - title: X
+      icon: x-twitter
+      url: "https://x.com/{{USERNAME}}"
