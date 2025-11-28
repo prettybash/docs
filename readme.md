@@ -5,14 +5,14 @@
 
 <div align="center" style="text-align: center;">
   <a target="_blank" rel="noreferrer" href="https://prettybash.github.io">
-    <img src="resource/prettybash_logo_cover_3840×2160.png" alt="PrettyBash" width="100%">
+    <img src="resource/prettybash_logo_cover_3840×2160.png" alt="PrettyBash | Documentation" width="100%">
   </a>
 </div>
 
 <br>
 <br>
 
-# PrettyBash Documentation
+# PrettyBash | Documentation
 
 PrettyBash documentation website.
 
