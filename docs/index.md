@@ -2,9 +2,6 @@
 layout: home
 ---
 
-<br>
-<br>
-
 # Documentation
 
 TODO: Documentation
