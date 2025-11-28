@@ -3,6 +3,10 @@ layout: home
 title: Documentation
 ---
 
+> TODO: This page isn't complete
+>
+> [Issue #1](https://github.com/prettybash/docs/issues/1)
+
 # PrettyBash Overview
 
 _Learn about PrettyBash_
@@ -26,5 +30,3 @@ _A list of common PrettyBash questions from the community_
 # About PrettyBash
 
 _Learn more about the PrettyBash project_
-
-TODO: [Issue #1](https://github.com/prettybash/docs/issues/1)
