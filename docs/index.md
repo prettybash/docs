@@ -3,6 +3,9 @@ layout: home
 title: Documentation
 ---
 
+<br>
+<br>
+
 # 🪧 PrettyBash Overview
 
 _Learn about PrettyBash_
@@ -10,6 +13,9 @@ _Learn about PrettyBash_
 Tired of plain, monochrome, and monotonous Bash scripts? This collection is your ultimate library to transform your
 terminal applications into visually engaging, user-friendly, and professionally polished experiences. It goes beyond
 mere functionality to focus on the command line user interface (UI) and user experience (UX).
+
+<br>
+<br>
 
 # 📌 What's Inside the PrettyBash?
 
@@ -71,6 +77,9 @@ Make your scripts more intuitive and less error-prone.
 - "Are you sure?" Confirmations: Prevent accidental actions with bold, red confirmation dialogs before executing
   destructive commands.
 
+<br>
+<br>
+
 # 🎯 Key Benefits of Using This Library
 
 - Improved User Experience (UX): Users can instantly understand the script's status, identify errors, and navigate
@@ -82,6 +91,9 @@ Make your scripts more intuitive and less error-prone.
 
 - Enhanced Debugging: Color-coding output (e.g., errors in red, debug info in cyan) makes it faster to identify and fix
   issues during development.
+
+<br>
+<br>
 
 # 🏗️ Getting Started
 
@@ -129,6 +141,9 @@ Library.
 git submodule update --remote
 ```
 
+<br>
+<br>
+
 # 🪏 Examples
 
 Open the `prettybash/source/playground.sh` file to play around.
@@ -145,6 +160,9 @@ Then run
 ./prettybash/source/playground.sh
 ```
 
+<br>
+<br>
+
 # ❤️ Thank You
 
 A heartfelt thank you for choosing to include this library in your project. It's developers and creators like you, who
@@ -153,6 +171,9 @@ small part of your work and can't wait to see what you build!
 
 Please don't hesitate to reach out. Happy coding!
 
+<br>
+<br>
+
 # 🫅 Support This Project
 
 Creating and maintaining this library is a labor of love, but it also requires significant time and effort.
@@ -160,9 +181,20 @@ Your financial contribution ensures this project remains active, supported, and 
 
 Become a backer and help secure the future of this project:
 
-# [🏆 Donate 🏆][sponsor]
+### [🏆 Donate 🏆][sponsor]
 
 _Thank you for your incredible support!_
 
+<br>
+<br>
+
+---
+
+# _Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer]._
+
+<br>
+<br>
+
 [template_repository]: https://github.com/prettybash/template
 [sponsor]: https://iamprogrammer.lk/sponsor
+[lead_maintainer]: https://github.com/iamprogrammerlk
