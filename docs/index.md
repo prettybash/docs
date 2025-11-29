@@ -6,7 +6,7 @@ title: Documentation
 <div align="center" style="text-align: center;">
   <br>
   <br>
-  <h3><i>Get the look and feel you want on your script</i></h3>
+  <h3><i>Get the look and feel you want on your Bash Script</i></h3>
 </div>
 
 <br>
