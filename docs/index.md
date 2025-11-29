@@ -3,23 +3,16 @@ layout: home
 title: Documentation
 ---
 
-<br>
-<br>
-
-# 🪧 PrettyBash Overview
-
-_Learn about PrettyBash_
-
-Tired of plain, monochrome, and monotonous Bash scripts? This collection is your ultimate library to transform your
-terminal applications into visually engaging, user-friendly, and professionally polished experiences. It goes beyond
-mere functionality to focus on the command line user interface (UI) and user experience (UX).
+<div align="center" style="text-align: center;">
+  <br>
+  <br>
+  <h3><i>Get the look and feel you want on your script</i></h3>
+</div>
 
 <br>
 <br>
 
 # 📌 What's Inside the PrettyBash?
-
-_Get the look and feel you want on your script_
 
 This library is organized into several modules, each designed to tackle a specific aspect of visual enhancement:
 
@@ -76,21 +69,6 @@ Make your scripts more intuitive and less error-prone.
 
 - "Are you sure?" Confirmations: Prevent accidental actions with bold, red confirmation dialogs before executing
   destructive commands.
-
-<br>
-<br>
-
-# 🎯 Key Benefits of Using This Library
-
-- Improved User Experience (UX): Users can instantly understand the script's status, identify errors, and navigate
-  options with ease.
-
-- Professional Polish: A well-formatted script reflects a higher level of care and quality, making your work stand out.
-
-- Reduced User Error: Clear visual cues and interactive menus prevent mistakes and misinterpretations.
-
-- Enhanced Debugging: Color-coding output (e.g., errors in red, debug info in cyan) makes it faster to identify and fix
-  issues during development.
 
 <br>
 <br>
@@ -163,38 +141,4 @@ Then run
 <br>
 <br>
 
-# ❤️ Thank You
-
-A heartfelt thank you for choosing to include this library in your project. It's developers and creators like you, who
-care about user experience and elegant design, that make the open-source community so amazing. We're thrilled to be a
-small part of your work and can't wait to see what you build!
-
-Please don't hesitate to reach out. Happy coding!
-
-<br>
-<br>
-
-# 🫅 Support This Project
-
-Creating and maintaining this library is a labor of love, but it also requires significant time and effort.
-Your financial contribution ensures this project remains active, supported, and continues to evolve.
-
-Become a backer and help secure the future of this project:
-
-### [🏆 Donate 🏆][sponsor]
-
-_Thank you for your incredible support!_
-
-<br>
-<br>
-
----
-
-# _Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer]._
-
-<br>
-<br>
-
 [template_repository]: https://github.com/prettybash/template
-[sponsor]: https://iamprogrammer.lk/sponsor
-[lead_maintainer]: https://github.com/iamprogrammerlk
