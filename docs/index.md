@@ -141,7 +141,7 @@ Then run
 <br>
 <br>
 
-# Developer Resources
+# 🧰 Developer Resources
 
 - [What Is Bash?][what_is_bash] By phoenixnap.com
 - [Shell Scripting for Beginners – How to Write Bash Scripts in Linux][shell_scripting] By freecodecamp.org
