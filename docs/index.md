@@ -141,4 +141,22 @@ Then run
 <br>
 <br>
 
+# Developer Resources
+
+- [What Is Bash?][what_is_bash] By phoenixnap.com
+- [Shell Scripting for Beginners – How to Write Bash Scripts in Linux][shell_scripting] By freecodecamp.org
+- [Bash Math Operations (Bash Arithmetic) Explained][bash_math] By phoenixnap.com
+- [Bash][bash] By phoenixnap.com
+- [Using `test` Command in Bash Scripts][test_command] By linuxhandbook.com
+- [A Complete Guide to Bash Array][bash_array] By linuxsimply.com
+
+<br>
+<br>
+
 [template_repository]: https://github.com/prettybash/template
+[what_is_bash]: https://phoenixnap.com/kb/what-is-bash
+[shell_scripting]: https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux
+[bash_math]: https://phoenixnap.com/kb/bash-math
+[bash]: https://phoenixnap.com/kb/tag/bash
+[test_command]: https://linuxhandbook.com/bash-test-command
+[bash_array]: https://linuxsimply.com/bash-scripting-tutorial/array
