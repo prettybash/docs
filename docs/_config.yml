@@ -21,9 +21,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
-  - jekyll-gfm-admonitions
-
-markdown: GFM
 
 minima:
   skin: dark
