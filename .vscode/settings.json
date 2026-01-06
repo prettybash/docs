@@ -13,5 +13,11 @@
     "../blob/main/license.md",
     "/asset/cover_3840x2160.png"
   ],
-  "cSpell.words": ["freecodecamp", "linuxhandbook", "linuxsimply", "phoenixnap"]
+  "cSpell.words": [
+    "freecodecamp",
+    "linuxhandbook",
+    "linuxsimply",
+    "phoenixnap",
+    "prettybash"
+  ]
 }

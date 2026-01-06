@@ -75,7 +75,8 @@ Make your scripts more intuitive and less error-prone.
 
 # 🏗️ Getting Started
 
-Simply source the main library script in your Bash project and call the provided functions. The library is designed to be modular, so you can include only the components you need without bloat.
+Simply source the main library script in your Bash project and call the provided functions. The library is designed 
+to be modular, so you can include only the components you need without bloat.
 
 ## How to Start Using PrettyBash?
 
